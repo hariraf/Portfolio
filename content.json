@@ -1,0 +1,101 @@
+{
+  "profile": {
+    "name": "Hariram Murukeshan",
+    "tagline": "Where Physics Meets Marketing, and Creativity Knows No Bounds",
+    "role": "Sr. Marketing Associate @ Amazon Books",
+    "bio": "From marketing books at Amazon to exploring quantum mechanics, my path is anything but linear. I believe in the power of interdisciplinary thinking.",
+    "photoUrl": "https://via.placeholder.com/300x300/6366f1/ffffff?text=Your+Photo",
+    "email": "your.email@example.com",
+    "linkedin": "https://www.linkedin.com/in/harirammurukeshan",
+    "github": "https://github.com/yourusername",
+    "twitter": "https://twitter.com/yourusername"
+  },
+  "popSciArticles": [
+    {
+      "title": "Visualizing Quantum Wave Functions",
+      "category": "Quantum Physics",
+      "description": "Exploring the probabilistic nature of quantum mechanics through interactive Python visualizations.",
+      "date": "Dec 2025",
+      "readTime": "8 min read",
+      "featured": true,
+      "gradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+    },
+    {
+      "title": "From Newtonian Mechanics to Qubits",
+      "category": "Learning Journey",
+      "description": "My structured 1-year roadmap to mastering quantum computing fundamentals.",
+      "date": "Nov 2025",
+      "readTime": "6 min read",
+      "featured": false,
+      "gradient": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)"
+    },
+    {
+      "title": "Undergraduate Physics: Week 3",
+      "category": "Study Notes",
+      "description": "Deep dive into classical mechanics, energy conservation, and problem-solving strategies.",
+      "date": "Nov 2025",
+      "readTime": "4 min read",
+      "featured": false,
+      "gradient": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)"
+    }
+  ],
+  "marketingProjects": [
+    {
+      "number": "01",
+      "title": "Algorithmic Curation in Bookstores",
+      "description": "How machine learning is reshaping the way we discover books, and what it means for traditional retail.",
+      "tags": ["ML", "Retail", "UX"],
+      "date": "Oct 2025",
+      "readTime": "7 min read"
+    },
+    {
+      "number": "02",
+      "title": "The Psychology of Book Covers",
+      "description": "Analyzing consumer behavior patterns and visual design principles that drive purchasing decisions.",
+      "tags": ["Psychology", "Design", "Data"],
+      "date": "Sep 2025",
+      "readTime": "5 min read"
+    },
+    {
+      "number": "03",
+      "title": "Marketing in the Age of AI",
+      "description": "Exploring how artificial intelligence is transforming marketing strategies and customer engagement.",
+      "tags": ["AI", "Strategy", "Future"],
+      "date": "Aug 2025",
+      "readTime": "6 min read"
+    }
+  ],
+  "creativeWorks": [
+    {
+      "title": "The Midnight Archive",
+      "type": "Short Story",
+      "description": "A tale of forgotten books, quantum entanglement, and the librarian who discovered that stories exist in superposition.",
+      "readTime": "15 min read",
+      "size": "large"
+    },
+    {
+      "title": "Double-Slit Experiment",
+      "type": "Simulation",
+      "description": "Interactive visualization of wave-particle duality.",
+      "size": "normal"
+    },
+    {
+      "title": "Quantum Dreams",
+      "type": "Art",
+      "description": "Digital art series exploring uncertainty.",
+      "size": "normal"
+    },
+    {
+      "title": "Language as Reality",
+      "type": "Essay",
+      "description": "How words shape our perception of the universe.",
+      "size": "normal"
+    },
+    {
+      "title": "Particle Physics Sandbox",
+      "type": "Simulation",
+      "description": "Play with fundamental forces in real-time.",
+      "size": "normal"
+    }
+  ]
+}
