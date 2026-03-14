@@ -34,6 +34,15 @@
             margin-bottom: 60px;
         }
 
+        .profile-img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 20px;
+            border: 3px solid #eaeaea;
+        }
+
         h1 {
             font-size: 2rem;
             font-weight: 700;
@@ -133,6 +142,7 @@
     <div class="container">
         
         <header>
+            <img src="profile.jpg" alt="Hariram Murukeshan" class="profile-img">
             <h1>Hariram Murukeshan</h1>
             <p class="bio">
                 Exploring the intersection of <strong>Language</strong>, <strong>Physics</strong>, and <strong>Machine Learning</strong>.

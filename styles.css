@@ -439,7 +439,7 @@ section {
 
 /* ========== PAGE HERO ========== */
 .page-hero {
-    padding: 150px 20px 80px;
+    padding: 180px 20px 80px;
     text-align: center;
     background: linear-gradient(135deg, var(--light) 0%, white 100%);
 }
